@@ -29,7 +29,7 @@ export default function Navbar() {
         >
           Yacht
         </NavLink>
-        <NavLink
+        {/* <NavLink
           to="/yatchDetail"
           className={({ isActive }) =>
             `pb-1 border-b-2 transition-all duration-400 ${
@@ -40,7 +40,7 @@ export default function Navbar() {
           }
         >
           Ofertas
-        </NavLink>
+        </NavLink> */}
         <NavLink
           to="/about"
           className={({ isActive }) =>

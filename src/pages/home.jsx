@@ -20,7 +20,7 @@ export default function Home() {
             Embárcate en una experiencia exclusiva con nuestros yates de primera clase.
           </p>
           <Link
-            to="/reserva"
+            to="/yacht"
             className="bg-yellow-400 hover:bg-yellow-500 text-[#0b1d3a] font-semibold px-6 py-3 rounded-md transition"
           >
             Reservar ahora
