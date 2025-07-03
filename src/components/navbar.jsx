@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
   return (
-    <nav className="bg-[#0b1d3a] text-white px-8 py-4 flex justify-between items-center shadow-md">
+    <nav className="bg-[#0b1d3a] text-white px-8 py-4 flex justify-between items-center shadow-md fixed top-0 left-0 w-full z-50">
       <div className="flex space-x-8 text-lg font-medium">
         <NavLink
           to="/"

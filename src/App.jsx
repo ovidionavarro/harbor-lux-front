@@ -11,7 +11,8 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar /> 
-      <Routes>
+      <div className="pt-18">
+        <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/yacht" element={<Yacht />} />
         <Route path="/yate/:id" element={<YachtDetail />} />
@@ -19,6 +20,7 @@ function App() {
       </Routes>
       {/* <SocialSidebar/> */}
       <Footer />
+      </div>
     </BrowserRouter>
   );
 }

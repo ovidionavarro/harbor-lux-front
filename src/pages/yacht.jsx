@@ -1,4 +1,4 @@
-import yachtExamples from '../mooks/yacht-offer.json'
+// import yachtExamples from '../mooks/yacht-offer.json'
 const yachts = [
   {
     nombre: "Sunseeker",
