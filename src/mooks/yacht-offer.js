@@ -1,0 +1,331 @@
+export  const yachts = [
+  {
+    id: "27bf7ed8-2702-438b-b360-30cf1bcf063d",
+    updatedAt: "2025-06-23T02:18:11.044Z",
+    createdAt: "2025-06-23T02:18:11.044Z",
+    deletedAt: null,
+    boatName: "Coral Queen",
+    capacity: 14,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/b9231ae2-5364-4102-bd69-0c54f597e6f3.jpg/:/cr=t:21.51%25,l:0%25,w:100%25,h:56.98%25/rs=w:388,h:194,cg:true",
+    instagran: "https://www.instagram.com/p/C1NGyyfrE5Z/?igsh=Ymw2NHdidDI1dDFv",
+    offWeekDays: 20,
+    pickUp: "Puerto Mar",
+    adiditionalInfo: "Espacio lounge y servicio de fotógrafo",
+    length: "26.80",
+    draft: "3.40",
+    beam: "6.00",
+    email: "reservas@coralqueen.com",
+    phone: "+34555444333",
+    description: "Ideal para celebraciones y sesiones fotográficas exclusivas.",
+    offers: [
+      {
+        id: "f2cd27ac-6fb2-4707-b93c-d3ac41957d0e",
+        updatedAt: "2025-06-23T02:24:45.987Z",
+        createdAt: "2025-06-23T02:24:45.987Z",
+        deletedAt: null,
+        durationHours: 4,
+        price: "1300.00"
+      },
+      {
+        id: "8a1f4ca7-eda1-4223-bd68-d9f46d4a137d",
+        updatedAt: "2025-06-23T02:24:56.998Z",
+        createdAt: "2025-06-23T02:24:56.998Z",
+        deletedAt: null,
+        durationHours: 6,
+        price: "1750.00"
+      }
+    ]
+  },
+  {
+    id: "dc96e32b-e8a4-4031-ba20-d77e0d1b687f",
+    updatedAt: "2025-06-23T02:18:37.153Z",
+    createdAt: "2025-06-23T02:18:37.153Z",
+    deletedAt: null,
+    boatName: "Silver Tide",
+    capacity: 16,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/IMG_0997.JPG/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194",
+    instagran: "https://www.instagram.com/reel/C2ixr0DrEg5/?igsh=OHY4Z3dwejAzZ2Rq",
+    offWeekDays: 40,
+    pickUp: "Muelle Plata",
+    adiditionalInfo: "Instructor de buceo incluido",
+    length: "28.40",
+    draft: "3.60",
+    beam: "6.30",
+    email: "booking@silvertide.com",
+    phone: "+34333444555",
+    description: "Descubre la costa desde un yate elegante y funcional.",
+    offers: [
+      {
+        id: "98751ba1-a72f-4b44-a609-c9e60883d7f3",
+        updatedAt: "2025-06-23T02:25:03.265Z",
+        createdAt: "2025-06-23T02:25:03.265Z",
+        deletedAt: null,
+        durationHours: 2,
+        price: "700.00"
+      },
+      {
+        id: "7de9e0b2-2b73-426f-9265-c4ff83f2056e",
+        updatedAt: "2025-06-23T02:25:11.377Z",
+        createdAt: "2025-06-23T02:25:11.377Z",
+        deletedAt: null,
+        durationHours: 2,
+        price: "700.00"
+      },
+      {
+        id: "868128cf-2273-43f4-9d6b-c4c5d5317cbe",
+        updatedAt: "2025-06-23T02:25:18.422Z",
+        createdAt: "2025-06-23T02:25:18.422Z",
+        deletedAt: null,
+        durationHours: 8,
+        price: "2500.00"
+      }
+    ]
+  },
+  {
+    id: "aede455f-1c0b-498d-b8d3-03e73f638164",
+    updatedAt: "2025-06-23T02:18:52.336Z",
+    createdAt: "2025-06-23T02:18:52.336Z",
+    deletedAt: null,
+    boatName: "Crystal Breeze",
+    capacity: 8,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/7935a324-1aac-4828-b5e0-cce24c2e465c.JPG/:/cr=t:32.81%25,l:0%25,w:100%25,h:67.19%25/rs=w:388,h:194,cg:true",
+    instagran: "https://www.instagram.com/reel/Cy1D955rDGu/?igsh=Z2hmOWNqczR3djNx",
+    offWeekDays: 50,
+    pickUp: "Dársena Norte",
+    adiditionalInfo: "Ambiente íntimo y menú personalizado",
+    length: "22.10",
+    draft: "2.50",
+    beam: "4.70",
+    email: "info@crystalbreeze.com",
+    phone: "+34999111222",
+    description: "Yate boutique perfecto para escapadas románticas.",
+    offers: [
+      {
+        id: "706c9088-c15c-4346-8b83-55150ba7fac0",
+        updatedAt: "2025-06-23T02:25:29.086Z",
+        createdAt: "2025-06-23T02:25:29.086Z",
+        deletedAt: null,
+        durationHours: 5,
+        price: "1550.00"
+      },
+      {
+        id: "1e397c4e-1505-4749-8027-69fcb364d85e",
+        updatedAt: "2025-06-23T02:25:36.552Z",
+        createdAt: "2025-06-23T02:25:36.552Z",
+        deletedAt: null,
+        durationHours: 3,
+        price: "1000.00"
+      }
+    ]
+  },
+  {
+    id: "58829561-3ef2-4b59-bdbe-fa81d15f49d3",
+    updatedAt: "2025-06-23T02:19:04.807Z",
+    createdAt: "2025-06-23T02:19:04.807Z",
+    deletedAt: null,
+    boatName: "Black Pearl",
+    capacity: 22,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/b0bf31e8-c0d1-4c59-a76d-a2079d416cb7.JPG/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194",
+    instagran: "https://www.instagram.com/p/DEVDJ9zpyjg/?igsh=cXh3cTltcHZ4NDc5",
+    offWeekDays: 60,
+    pickUp: "Marina Caribe",
+    adiditionalInfo: "DJ en vivo y espacio para eventos",
+    length: "32.00",
+    draft: "4.00",
+    beam: "6.80",
+    email: "eventos@blackpearl.com",
+    phone: "+34888000011",
+    description: "Yate insignia para fiestas y eventos corporativos de alto nivel.",
+    offers: [
+      {
+        id: "4fe3e5cd-9374-493d-ba14-dc29fe6c3afc",
+        updatedAt: "2025-06-23T02:25:46.341Z",
+        createdAt: "2025-06-23T02:25:46.341Z",
+        deletedAt: null,
+        durationHours: 6,
+        price: "1800.00"
+      },
+      {
+        id: "f271114b-6056-4752-8586-1d5958abe2e3",
+        updatedAt: "2025-06-23T02:28:47.432Z",
+        createdAt: "2025-06-23T02:28:47.432Z",
+        deletedAt: null,
+        durationHours: 4,
+        price: "1400.00"
+      }
+    ]
+  },
+  {
+    id: "19671eae-009d-4992-a1fe-4463c9c6e239",
+    updatedAt: "2025-06-23T01:22:53.624Z",
+    createdAt: "2025-06-23T01:22:53.624Z",
+    deletedAt: null,
+    boatName: "Ocean Spirit",
+    capacity: 18,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/2.JPG/:/cr=t:5.36%25,l:15.23%25,w:79.18%25,h:89.29%25/rs=w:388,h:291.72932330827064,cg:true,m",
+    instagran: "https://www.instagram.com/p/CpgCg0XuY7D/?igshid=Mzc1MmZhNjY=",
+    offWeekDays: 30,
+    pickUp: "Puerto Azul",
+    adiditionalInfo: "Incluye equipo de snorkel y bebidas frías",
+    length: "27.30",
+    draft: "3.80",
+    beam: "5.90",
+    email: "reservas@oceanspirit.com",
+    phone: "+34987654321",
+    description: "Elegante yate preparado para excursiones exclusivas en alta mar.",
+    offers: [
+      {
+        id: "324bfc0b-5206-46c0-aea9-244596fcdfea",
+        updatedAt: "2025-06-23T02:23:06.031Z",
+        createdAt: "2025-06-23T02:23:06.031Z",
+        deletedAt: null,
+        durationHours: 6,
+        price: "1600.00"
+      },
+      {
+        id: "c446d8c1-3f4b-47fa-b749-9a2a49cfa64a",
+        updatedAt: "2025-06-23T02:23:21.698Z",
+        createdAt: "2025-06-23T02:23:21.698Z",
+        deletedAt: null,
+        durationHours: 4,
+        price: "1200.50"
+      },
+      {
+        id: "e951c639-9477-4dff-81b9-642feff93f5c",
+        updatedAt: "2025-06-23T02:23:31.818Z",
+        createdAt: "2025-06-23T02:23:31.818Z",
+        deletedAt: null,
+        durationHours: 3,
+        price: "950.00"
+      }
+    ]
+  },
+  {
+    id: "91b9ff8c-0d0c-40af-94a7-30f4cae46c4c",
+    updatedAt: "2025-06-23T01:31:17.772Z",
+    createdAt: "2025-06-22T23:16:57.970Z",
+    deletedAt: null,
+    boatName: "Sea Explorer",
+    capacity: 12,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/2.JPG/:/cr=t:5.36%25,l:15.23%25,w:79.18%25,h:89.29%25/rs=w:388,h:291.72932330827064,cg:true,m",
+    instagran: "https://www.instagram.com/p/CZ0i26zrbvl/?igshid=YmMyMTA2M2Y=",
+    offWeekDays: 20,
+    pickUp: "Marina Bay",
+    adiditionalInfo: "Incluye capitán y snacks",
+    length: "25.50",
+    draft: "3.20",
+    beam: "6.10",
+    email: "tex3t@expmle.com",
+    phone: "+1234567890",
+    description: "Yate de lujo ideal para paseos familiares y eventos.",
+    offers: [
+      {
+        id: "0faf0167-c59b-41d2-8318-a1e9c8b94402",
+        updatedAt: "2025-06-23T01:11:48.654Z",
+        createdAt: "2025-06-23T01:11:48.654Z",
+        deletedAt: null,
+        durationHours: 4,
+        price: "1200.50"
+      },
+      {
+        id: "b0daffcf-b02d-470f-be6c-21cc48bbe30f",
+        updatedAt: "2025-06-23T02:23:41.226Z",
+        createdAt: "2025-06-23T02:23:41.226Z",
+        deletedAt: null,
+        durationHours: 4,
+        price: "1400.75"
+      },
+      {
+        id: "cb171e61-7445-49f8-b293-25e0e5960ee5",
+        updatedAt: "2025-06-23T02:23:49.988Z",
+        createdAt: "2025-06-23T02:23:49.988Z",
+        deletedAt: null,
+        durationHours: 5,
+        price: "1550.00"
+      }
+    ]
+  },
+  {
+    id: "97e51e83-b3fa-43bb-8321-c4e17dc11ebb",
+    updatedAt: "2025-06-23T02:17:30.881Z",
+    createdAt: "2025-06-23T02:17:30.881Z",
+    deletedAt: null,
+    boatName: "Blue Horizon",
+    capacity: 10,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/Relaxer%20-4.jpg/:/cr=t:0%25,l:14.69%25,w:70.62%25,h:100%25/rs=w:388,h:291.72932330827064,cg:true",
+    instagran: "https://www.instagram.com/reel/C6OjXtpL71O/?igsh=aWE2MGllZG0zMmkz",
+    offWeekDays: 10,
+    pickUp: "Bahía Coral",
+    adiditionalInfo: "Sistema de sonido premium y bar a bordo",
+    length: "24.00",
+    draft: "2.90",
+    beam: "5.20",
+    email: "info@bluehorizon.com",
+    phone: "+34111222333",
+    description: "Perfecto para fiestas privadas y navegación costera.",
+    offers: [
+      {
+        id: "b78a8a87-0178-404b-bf0a-e37374032c28",
+        updatedAt: "2025-06-23T02:26:42.276Z",
+        createdAt: "2025-06-23T02:26:42.276Z",
+        deletedAt: null,
+        durationHours: 6,
+        price: "2000.00"
+      },
+      {
+        id: "8468a8ff-071b-4ca3-878f-685fd0861fe2",
+        updatedAt: "2025-06-23T02:26:51.693Z",
+        createdAt: "2025-06-23T02:26:51.693Z",
+        deletedAt: null,
+        durationHours: 2,
+        price: "800.00"
+      }
+    ]
+  },
+  {
+    id: "037da309-4e27-4858-a783-408269731b02",
+    updatedAt: "2025-06-23T02:20:30.106Z",
+    createdAt: "2025-06-23T02:20:30.106Z",
+    deletedAt: null,
+    boatName: "Golden Wave",
+    capacity: 20,
+    image: "https://img1.wsimg.com/isteam/ip/b6f9a6ec-877c-4d82-b1dc-ce011833738b/image0%20(1)-6c7a741.jpeg/:/cr=t:53.79%25,l:24.59%25,w:70.42%25,h:44.28%25/rs=w:388,h:194,cg:true,m",
+    instagran: "https://www.instagram.com/p/C1s7mistbGl/?igsh=bmNhd2JhN3piYXB5",
+    offWeekDays: null,
+    pickUp: "Marina Real",
+    adiditionalInfo: "Jacuzzi a bordo y catering gourmet",
+    length: "30.50",
+    draft: "4.10",
+    beam: "6.50",
+    email: "contact@goldenwave.com",
+    phone: "+34666777888",
+    description: "Experiencia de lujo total en alta mar.",
+    offers: [
+      {
+        id: "451540d7-3e0d-41d0-afe1-58c492089c6f",
+        updatedAt: "2025-06-23T02:24:16.078Z",
+        createdAt: "2025-06-23T02:24:16.078Z",
+        deletedAt: null,
+        durationHours: 3,
+        price: "1100.00"
+      },
+      {
+        id: "eabdcdf3-ff52-491d-8751-172e4f365780",
+        updatedAt: "2025-06-23T02:24:27.283Z",
+        createdAt: "2025-06-23T02:24:27.283Z",
+        deletedAt: null,
+        durationHours: 5,
+        price: "1450.25"
+      },
+      {
+        id: "31f8d15c-4f34-4f55-9c08-d149e1b66341",
+        updatedAt: "2025-06-23T02:24:36.423Z",
+        createdAt: "2025-06-23T02:24:36.423Z",
+        deletedAt: null,
+        durationHours: 7,
+        price: "2100.00"
+      }
+    ]
+  }
+];
+
